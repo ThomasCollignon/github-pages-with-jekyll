@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Front-end automated test with Protractor
 
-I'm glad you are here. I plan to talk about ...
+Protractor is just Selenium with added features to suit Angular apps.
+It has been designed for AngularJS and maintained since.
